@@ -1,4 +1,4 @@
-# Always Rainbow (EMI Addon)
+# Gaming EMI (EMI Addon)
 
 A tiny client-side mod that makes the **EMI search bar** always rainbow colored.  
 No need to type `jeb_` anymore – the Easter egg is now permanent!
